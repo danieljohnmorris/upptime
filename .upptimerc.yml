@@ -24,10 +24,6 @@ sites:
     url: https://go-5x5.danieljohnmorris.com
   - name: Go 5x5 KataGo
     url: https://go-5x5-katago.danieljohnmorris.com
-  - name: Go Coach
-    url: https://go-coach.danieljohnmorris.com
-  - name: KataGo
-    url: https://katago.danieljohnmorris.com
   - name: Harmonia
     url: https://harmonia.danieljohnmorris.com
   - name: Live Search (HTMX)
@@ -38,6 +34,20 @@ sites:
     url: https://map.danieljohnmorris.com
   - name: Nastia
     url: https://nastia.danieljohnmorris.com
+  - name: Status page (on-box)
+    url: https://status.danieljohnmorris.com
+  - name: Status API (on-box)
+    url: https://api.status.danieljohnmorris.com/health
+  - name: ilo-lang.ai
+    url: https://ilo-lang.ai
+  - name: ilo convert API
+    url: https://convert.ilo-lang.ai/health
+  - name: Lightning CV site
+    url: https://lightningcv.io
+  - name: Lightning CV app
+    url: https://app.lightningcv.io
+  - name: Counselling Supervisor
+    url: https://counselling-supervisor.ai
 
 status-website:
   cname: uptime.danieljohnmorris.com
