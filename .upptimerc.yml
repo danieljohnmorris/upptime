@@ -1,31 +1,63 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: danieljohnmorris
+repo: upptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Main site
+    url: https://danieljohnmorris.com
+  - name: Dokploy
+    url: https://deploy.danieljohnmorris.com
+  - name: Analytics (Umami)
+    url: https://analytics.danieljohnmorris.com
+  - name: 3D Flock
+    url: https://3d-flock.danieljohnmorris.com
+  - name: 3D House
+    url: https://3d-house.danieljohnmorris.com
+  - name: 3D Parallax
+    url: https://3d-parallax.danieljohnmorris.com
+  - name: 3D Waves
+    url: https://3d-waves.danieljohnmorris.com
+  - name: Clouds 3D
+    url: https://clouds-3d.danieljohnmorris.com
+  - name: Clouds Noise
+    url: https://clouds-noise.danieljohnmorris.com
+  - name: Go 5x5
+    url: https://go-5x5.danieljohnmorris.com
+  - name: Go 5x5 KataGo
+    url: https://go-5x5-katago.danieljohnmorris.com
+  - name: Go Coach
+    url: https://go-coach.danieljohnmorris.com
+  - name: KataGo
+    url: https://katago.danieljohnmorris.com
+  - name: Harmonia
+    url: https://harmonia.danieljohnmorris.com
+  - name: Live Search (HTMX)
+    url: https://live-search-htmx.danieljohnmorris.com
+  - name: Live Search (RSC)
+    url: https://live-search-rsc.danieljohnmorris.com
+  - name: Map
+    url: https://map.danieljohnmorris.com
+  - name: Nastia
+    url: https://nastia.danieljohnmorris.com
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: uptime.danieljohnmorris.com
+  name: danieljohnmorris.com status
+  introTitle: "Status"
+  introMessage: Uptime for danieljohnmorris.com and everything running on the Hetzner box. Checks run on GitHub Actions and this page is served by GitHub Pages, so neither depends on the servers being monitored.
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/danieljohnmorris/upptime
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+assignees:
+  - danieljohnmorris
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updates: "0 3 * * *"
+  updateTemplate: "0 0 * * 0"
+  uptime: "*/5 * * * *"
