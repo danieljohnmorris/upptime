@@ -48,6 +48,8 @@ sites:
     url: https://app.lightningcv.io
   - name: Counselling Supervisor
     url: https://counselling-supervisor.ai
+  - name: Bugsink
+    url: https://bugsink.danieljohnmorris.com/accounts/login/
 
 status-website:
   cname: uptime.danieljohnmorris.com
