@@ -6,8 +6,8 @@ sites:
     url: https://danieljohnmorris.com
   - name: Dokploy
     url: https://deploy.danieljohnmorris.com
-  - name: Analytics (Umami)
-    url: https://analytics.danieljohnmorris.com
+  - name: Analytics (Umami tracker)
+    url: https://analytics.danieljohnmorris.com/script.js
   - name: 3D Flock
     url: https://3d-flock.danieljohnmorris.com
   - name: 3D House
