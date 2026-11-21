@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/danieljohnmorris.com.ico",
     "slug": "main-site",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.23%",
-    "uptimeYear": "99.77%",
-    "time": 1438,
-    "timeDay": 1164,
-    "timeWeek": 1039,
-    "timeMonth": 2379,
-    "timeYear": 1438,
+    "uptimeYear": "99.78%",
+    "time": 1432,
+    "timeDay": 811,
+    "timeWeek": 973,
+    "timeMonth": 2371,
+    "timeYear": 1432,
     "dailyMinutesDown": {
       "2026-11-05": 335
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.24%",
     "uptimeYear": "99.78%",
-    "time": 1077,
-    "timeDay": 1028,
-    "timeWeek": 847,
-    "timeMonth": 1505,
-    "timeYear": 1077,
+    "time": 1073,
+    "timeDay": 698,
+    "timeWeek": 797,
+    "timeMonth": 1498,
+    "timeYear": 1073,
     "dailyMinutesDown": {
       "2026-11-05": 334
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 518,
-    "timeDay": 95,
-    "timeWeek": 355,
-    "timeMonth": 684,
-    "timeYear": 518,
+    "time": 519,
+    "timeDay": 596,
+    "timeWeek": 420,
+    "timeMonth": 678,
+    "timeYear": 519,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.25%",
     "uptimeYear": "99.78%",
-    "time": 658,
-    "timeDay": 691,
-    "timeWeek": 624,
-    "timeMonth": 652,
-    "timeYear": 658,
+    "time": 657,
+    "timeDay": 549,
+    "timeWeek": 593,
+    "timeMonth": 650,
+    "timeYear": 657,
     "dailyMinutesDown": {
       "2026-11-05": 329
     }
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.25%",
     "uptimeYear": "99.78%",
-    "time": 1154,
-    "timeDay": 933,
-    "timeWeek": 902,
-    "timeMonth": 1778,
-    "timeYear": 1154,
+    "time": 1150,
+    "timeDay": 710,
+    "timeWeek": 843,
+    "timeMonth": 1770,
+    "timeYear": 1150,
     "dailyMinutesDown": {
       "2026-11-05": 327
     }
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "99.78%",
-    "time": 1246,
-    "timeDay": 967,
-    "timeWeek": 859,
-    "timeMonth": 2042,
-    "timeYear": 1246,
+    "time": 1241,
+    "timeDay": 717,
+    "timeWeek": 804,
+    "timeMonth": 2033,
+    "timeYear": 1241,
     "dailyMinutesDown": {
       "2026-11-05": 326
     }
@@ -128,11 +128,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "99.78%",
-    "time": 1009,
-    "timeDay": 960,
-    "timeWeek": 823,
-    "timeMonth": 1472,
-    "timeYear": 1009,
+    "time": 1006,
+    "timeDay": 699,
+    "timeWeek": 756,
+    "timeMonth": 1470,
+    "timeYear": 1006,
     "dailyMinutesDown": {
       "2026-11-05": 325
     }
@@ -148,11 +148,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "99.78%",
-    "time": 1714,
-    "timeDay": 975,
-    "timeWeek": 816,
-    "timeMonth": 3163,
-    "timeYear": 1714,
+    "time": 1704,
+    "timeDay": 582,
+    "timeWeek": 773,
+    "timeMonth": 3155,
+    "timeYear": 1704,
     "dailyMinutesDown": {
       "2026-11-05": 324
     }
@@ -163,16 +163,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/clouds-noise.danieljohnmorris.com.ico",
     "slug": "clouds-noise",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.26%",
-    "uptimeYear": "99.78%",
-    "time": 1026,
-    "timeDay": 772,
-    "timeWeek": 708,
-    "timeMonth": 1450,
-    "timeYear": 1026,
+    "uptimeYear": "99.79%",
+    "time": 1022,
+    "timeDay": 581,
+    "timeWeek": 672,
+    "timeMonth": 1445,
+    "timeYear": 1022,
     "dailyMinutesDown": {
       "2026-11-05": 323
     }
@@ -183,16 +183,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/go-5x5.danieljohnmorris.com.ico",
     "slug": "go-5x5",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.27%",
-    "uptimeYear": "99.78%",
-    "time": 1045,
-    "timeDay": 995,
-    "timeWeek": 844,
-    "timeMonth": 1456,
-    "timeYear": 1045,
+    "uptimeYear": "99.79%",
+    "time": 1042,
+    "timeDay": 692,
+    "timeWeek": 799,
+    "timeMonth": 1449,
+    "timeYear": 1042,
     "dailyMinutesDown": {
       "2026-11-05": 322
     }
@@ -203,16 +203,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/go-5x5-katago.danieljohnmorris.com.ico",
     "slug": "go-5x5-kata-go",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.27%",
-    "uptimeYear": "99.78%",
-    "time": 1342,
-    "timeDay": 1283,
-    "timeWeek": 893,
-    "timeMonth": 1633,
-    "timeYear": 1342,
+    "uptimeYear": "99.79%",
+    "time": 1336,
+    "timeDay": 668,
+    "timeWeek": 840,
+    "timeMonth": 1624,
+    "timeYear": 1336,
     "dailyMinutesDown": {
       "2026-11-05": 320
     }
@@ -228,11 +228,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.28%",
     "uptimeYear": "99.79%",
-    "time": 499,
-    "timeDay": 516,
-    "timeWeek": 475,
-    "timeMonth": 498,
-    "timeYear": 499,
+    "time": 498,
+    "timeDay": 420,
+    "timeWeek": 454,
+    "timeMonth": 496,
+    "timeYear": 498,
     "dailyMinutesDown": {
       "2026-11-05": 316
     }
@@ -248,11 +248,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.79%",
-    "time": 495,
-    "timeDay": 505,
-    "timeWeek": 482,
-    "timeMonth": 490,
-    "timeYear": 495,
+    "time": 494,
+    "timeDay": 404,
+    "timeWeek": 453,
+    "timeMonth": 487,
+    "timeYear": 494,
     "dailyMinutesDown": {
       "2026-11-05": 311
     }
@@ -263,16 +263,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/live-search-rsc.danieljohnmorris.com.ico",
     "slug": "live-search-rsc",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.30%",
-    "uptimeYear": "99.79%",
-    "time": 655,
-    "timeDay": 700,
-    "timeWeek": 638,
-    "timeMonth": 648,
-    "timeYear": 655,
+    "uptimeYear": "99.80%",
+    "time": 657,
+    "timeDay": 875,
+    "timeWeek": 657,
+    "timeMonth": 657,
+    "timeYear": 657,
     "dailyMinutesDown": {
       "2026-11-05": 306
     }
@@ -288,11 +288,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.31%",
     "uptimeYear": "99.80%",
-    "time": 635,
-    "timeDay": 678,
-    "timeWeek": 618,
-    "timeMonth": 631,
-    "timeYear": 635,
+    "time": 634,
+    "timeDay": 539,
+    "timeWeek": 592,
+    "timeMonth": 628,
+    "timeYear": 634,
     "dailyMinutesDown": {
       "2026-11-05": 301
     }
@@ -308,11 +308,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.80%",
-    "time": 634,
-    "timeDay": 650,
-    "timeWeek": 618,
-    "timeMonth": 631,
-    "timeYear": 634,
+    "time": 633,
+    "timeDay": 512,
+    "timeWeek": 587,
+    "timeMonth": 628,
+    "timeYear": 633,
     "dailyMinutesDown": {
       "2026-11-05": 296
     }
@@ -323,16 +323,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.danieljohnmorris.com.ico",
     "slug": "status-page-on-box",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.33%",
-    "uptimeYear": "99.80%",
-    "time": 501,
-    "timeDay": 502,
-    "timeWeek": 480,
-    "timeMonth": 504,
-    "timeYear": 501,
+    "uptimeYear": "99.81%",
+    "time": 500,
+    "timeDay": 417,
+    "timeWeek": 458,
+    "timeMonth": 502,
+    "timeYear": 500,
     "dailyMinutesDown": {
       "2026-11-05": 291
     }
@@ -348,11 +348,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.81%",
-    "time": 491,
-    "timeDay": 495,
-    "timeWeek": 481,
-    "timeMonth": 484,
-    "timeYear": 491,
+    "time": 490,
+    "timeDay": 389,
+    "timeWeek": 454,
+    "timeMonth": 482,
+    "timeYear": 490,
     "dailyMinutesDown": {
       "2026-11-05": 287
     }
@@ -368,11 +368,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "99.81%",
-    "time": 900,
-    "timeDay": 900,
-    "timeWeek": 782,
-    "timeMonth": 891,
-    "timeYear": 900,
+    "time": 898,
+    "timeDay": 654,
+    "timeWeek": 748,
+    "timeMonth": 883,
+    "timeYear": 898,
     "dailyMinutesDown": {
       "2026-11-05": 282
     }
@@ -388,11 +388,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "99.81%",
-    "time": 1136,
-    "timeDay": 814,
-    "timeWeek": 714,
-    "timeMonth": 1543,
-    "timeYear": 1136,
+    "time": 1130,
+    "timeDay": 553,
+    "timeWeek": 671,
+    "timeMonth": 1535,
+    "timeYear": 1130,
     "dailyMinutesDown": {
       "2026-11-05": 281
     }
@@ -408,11 +408,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "99.81%",
-    "time": 885,
-    "timeDay": 749,
-    "timeWeek": 617,
-    "timeMonth": 1231,
-    "timeYear": 885,
+    "time": 882,
+    "timeDay": 507,
+    "timeWeek": 591,
+    "timeMonth": 1219,
+    "timeYear": 882,
     "dailyMinutesDown": {
       "2026-11-05": 279
     }
@@ -428,11 +428,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.37%",
     "uptimeYear": "99.82%",
-    "time": 2447,
-    "timeDay": 2471,
-    "timeWeek": 2514,
-    "timeMonth": 2424,
-    "timeYear": 2447,
+    "time": 2445,
+    "timeDay": 2249,
+    "timeWeek": 2455,
+    "timeMonth": 2420,
+    "timeYear": 2445,
     "dailyMinutesDown": {
       "2026-11-05": 275
     }
@@ -443,16 +443,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/counselling-supervisor.ai.ico",
     "slug": "counselling-supervisor",
     "status": "up",
-    "uptime": "89.28%",
+    "uptime": "89.38%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "34.11%",
+    "uptimeWeek": "48.36%",
     "uptimeMonth": "63.57%",
-    "uptimeYear": "89.28%",
-    "time": 724,
-    "timeDay": 247,
-    "timeWeek": 309,
-    "timeMonth": 614,
-    "timeYear": 724,
+    "uptimeYear": "89.38%",
+    "time": 722,
+    "timeDay": 450,
+    "timeWeek": 337,
+    "timeMonth": 605,
+    "timeYear": 722,
     "dailyMinutesDown": {
       "2026-11-05": 270,
       "2026-11-17": 1163,
@@ -481,9 +481,9 @@
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.82%",
     "time": 506,
-    "timeDay": 579,
-    "timeWeek": 496,
-    "timeMonth": 503,
+    "timeDay": 487,
+    "timeWeek": 485,
+    "timeMonth": 504,
     "timeYear": 506,
     "dailyMinutesDown": {
       "2026-11-05": 265
