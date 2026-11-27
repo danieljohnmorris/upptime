@@ -443,11 +443,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/counselling-supervisor.ai.ico",
     "slug": "counselling-supervisor",
     "status": "down",
-    "uptime": "87.06%",
+    "uptime": "87.03%",
     "uptimeDay": "30.97%",
-    "uptimeWeek": "54.28%",
-    "uptimeMonth": "53.05%",
-    "uptimeYear": "87.06%",
+    "uptimeWeek": "53.78%",
+    "uptimeMonth": "52.94%",
+    "uptimeYear": "87.03%",
     "time": 1318,
     "timeDay": 5987,
     "timeWeek": 9623,
@@ -472,7 +472,7 @@
       "2026-11-25": 883,
       "2026-11-24": 1030,
       "2026-11-26": 1179,
-      "2026-11-27": 0
+      "2026-11-27": 51
     }
   },
   {
